@@ -1,5 +1,5 @@
 # ubisoft.com
-![view](![screencapture-file-C-Users-Mehdi-Desktop-Exercise-Project-ubistoft-index-html-2024-02-03-02_49_23](https://github.com/Mehdi-Zaree/ubisoft/assets/155577064/3556d3cc-13cc-4638-9aa2-648460ededae)
+![view](https://github.com/Mehdi-Zaree/ubisoft/assets/155577064/3556d3cc-13cc-4638-9aa2-648460ededae
 )
 <p align="center">
 <a href="https://mehdi-zaree.github.io/ubisoft/"target="_blank"> view demo</a> .
