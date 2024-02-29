@@ -4,7 +4,7 @@
 <a href="https://mehdi-zaree.github.io/ubisoft/"target="_blank"> view demo</a> .
 <a href="https://github.com/Mehdi-Zaree/newspaper-grid/issues">report bug</a> .
 <a href="https://github.com/Mehdi-Zaree/newspaper-grid/issues">requesting feature</a></p>
-<img src="https://github.com/Mehdi-Zaree/ubisoft/assets/155577064/3556d3cc-13cc-4638-9aa2-648460ededae"></img>
+<img src="https://github.com/Mehdi-Zaree/ubisoft/assets/155577064/48eab7d4-d484-4556-aa3d-a83f404c1ba7"></img>
 
 
 
